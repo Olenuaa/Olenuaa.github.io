@@ -5,9 +5,9 @@ feature_text: |
   Hi! I'm Lena
 ---
 
-<center>
-<a href="https://olenuaa.github.io/"><img class="people" alt="Elena Stefanishina" src="lena-stef.jpg" srcset="lena-stef.jpg" /></a>
-<center>
+<img src="lena-stef.jpg" 
+     width="400" 
+     height="500" />
 
 Graduate at Moscow State Linguistic University. Interests: linguistics, chess, AI, cats, tasty food ☕️
 
