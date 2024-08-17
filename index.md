@@ -4,10 +4,11 @@ feature_text: |
   ## Elena Stefanishina
   Hi! I'm Lena
 ---
-
+<center>
 <img src="lena-stef.jpg" 
      width="400" 
      height="500" />
+</center>
 
 Graduate at Moscow State Linguistic University. Interests: linguistics, chess, AI, cats, tasty food ☕️
 
