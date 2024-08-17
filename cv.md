@@ -5,8 +5,8 @@ feature_text: |
 ---
 <center>
 
-[English CV]("https://olenuaa.github.io/CV,%20Stefanishina%20Elena.pdf")
-[Russian CV]("https://olenuaa.github.io/Stefanishina%2C%20Russian%20CV.pdf")
+[English CV](https://olenuaa.github.io/CV,%20Stefanishina%20Elena.pdf)
+[Russian CV](https://olenuaa.github.io/Stefanishina%2C%20Russian%20CV.pdf)
 <a href="https://olenuaa.github.io/CV,%20Stefanishina%20Elena.pdf">link</a>
 
 <a href="https://olenuaa.github.io/CV,%20Stefanishina%20Elena.pdf">link</a>
