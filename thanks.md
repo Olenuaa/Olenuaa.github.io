@@ -7,5 +7,5 @@ sitemap: false
 Thanks for checking my website! 
 
 <center>
-<img src="lena-stef.jpg"/>
+<img src="cat.jpg"/>
 </center>
