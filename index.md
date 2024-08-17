@@ -5,9 +5,9 @@ feature_text: |
   Hi! I'm Lena
 ---
 
-<a href="https://olenuaa.github.io/"><img class="people" alt="Aaron Steven White" src="lena-stef.jpg" srcset="lena-stef.jpg" /></a>
-
-![Pic of me](photo_2024-08-17_01-55-24.jpg)
+<center>
+<a href="https://olenuaa.github.io/"><img class="people" alt="Elena Stefanishina" src="lena-stef.jpg" srcset="lena-stef.jpg" /></a>
+<center>
 
 Graduate at Moscow State Linguistic University. Interests: linguistics, chess, AI, cats, tasty food ☕️
 
