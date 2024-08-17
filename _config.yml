@@ -107,6 +107,8 @@ navigation_header:
   url: /cv/
 - title: Papers
   url: /papers/
+- title: Presentations
+  url: /presentations/
 
 # Load custom fonts from fonts.google.com etc
 #

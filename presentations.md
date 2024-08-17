@@ -1,8 +1,8 @@
 ---
-title: Papers
+title: Presentations
 feature_text: |
-  Papers
-excerpt: "Papers"
+  Presentations
+excerpt: "Presentations"
 ---
 
 {% for batch in site.data.papers %}
