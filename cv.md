@@ -4,5 +4,5 @@ feature_text: |
   ## CV in Russian and English
 ---
 
-[English CV](CV, Stefanishina Elena.pdf "A link")
-[Russian CV](Stefanishina, Russian CV.pdf "A link")
+<a href="CV, Stefanishina Elena.pdf">link</a>
+<a href="Stefanishina, Russian CV.pdf">link</a>
