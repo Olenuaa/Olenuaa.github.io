@@ -103,10 +103,10 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Main page
   url: /
-- title: Papers
-  url: /papers/
 - title: CV
   url: CV, Stefanishina Elena.pdf
+- title: Papers
+  url: /papers/
 # - title: Fork Alembic
 #   url: https://github.com/daviddarnes/alembic
 
