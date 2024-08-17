@@ -6,8 +6,6 @@ excerpt: "Papers and Presentations"
 aside: true
 ---
 
-All of the citations for published papers listed below are collected in the .bib file located [here](aaronstevenwhite.bib).
-
 {% for batch in site.data.papers %}
 
   <h1>{{ batch.year }}</h1>
