@@ -5,7 +5,7 @@ feature_text: |
 excerpt: "Presentations"
 ---
 
-{% for batch in site.data.papers %}
+{% for batch in site.data.presentations %}
 
   <h1>{{ batch.year }}</h1>
 
