@@ -3,6 +3,6 @@
   - citation: "Stefanishina E.I., Komalova L.R. 2023. How chess playing influences level of human cognitive abilities."
     links:
     - label: "pdf"
-      href: "papers\5Стефанишина Е.И., Комалова Л.Р._ЭПЛ_4(15)_2023_67-79.pdf"
+      #href: "papers\5Стефанишина Е.И., Комалова Л.Р._ЭПЛ_4(15)_2023_67-79.pdf"
 
       [I'm an inline-style link]("papers\5Стефанишина Е.И., Комалова Л.Р._ЭПЛ_4(15)_2023_67-79.pdf")
