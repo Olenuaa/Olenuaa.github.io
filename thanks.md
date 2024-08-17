@@ -6,6 +6,4 @@ sitemap: false
 
 Thanks for checking my website! 
 
-<center>
-<img src="cat.jpg"/>
-</center>
+![Greek cat](cat.jpg "Greek cat")
