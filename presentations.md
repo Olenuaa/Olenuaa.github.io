@@ -3,6 +3,7 @@ title: Presentations
 feature_text: |
  ## Presentations
 excerpt: "Presentations"
+feature_image: "cats.jpg"
 ---
 
 {% for batch in site.data.presentations %}
