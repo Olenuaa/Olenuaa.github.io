@@ -1,7 +1,7 @@
 ---
 title: Papers
 feature_text: |
-  Papers
+ ## Papers
 excerpt: "Papers"
 ---
 
