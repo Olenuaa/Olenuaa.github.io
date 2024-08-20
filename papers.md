@@ -2,8 +2,9 @@
 title: Papers
 feature_text: |
  ## Papers
-excerpt: "Papers"
 feature_image: "cats.jpg"
+excerpt: "Papers"
+
 ---
 
 {% for batch in site.data.papers %}
