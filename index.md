@@ -3,7 +3,7 @@ title: About me
 feature_text: |
   ## Elena Stefanishina
   Hi! I'm Lena
-feature_image: "cats_background.jpg"
+feature_image: "cats.jpg"
 ---
 <center>
 <img src="lena-stef.jpg" 
