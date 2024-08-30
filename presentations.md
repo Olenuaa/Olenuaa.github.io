@@ -2,7 +2,6 @@
 title: Presentations
 feature_text: |
  ## Presentations
- feature_image: "cats.jpg"
 excerpt: "Presentations"
 
 ---

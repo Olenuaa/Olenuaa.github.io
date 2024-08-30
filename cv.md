@@ -2,7 +2,6 @@
 title: CV
 feature_text: |
   ## CV in Russian and English
-feature_image: "cats_background.jpg"
 ---
 
 <center>

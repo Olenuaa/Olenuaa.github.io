@@ -2,7 +2,6 @@
 title: Papers
 feature_text: |
  ## Papers
-feature_image: "cats.jpg"
 excerpt: "Papers"
 
 ---
